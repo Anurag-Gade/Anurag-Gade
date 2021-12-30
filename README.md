@@ -1,5 +1,5 @@
 ### 
-https://github.com/Anurag-Gade/Anurag-Gade/blob/295d63dc267bd86bd6cd6109326de98565fee9c6/Hi!%20This%20is%20Anurag%20Gade..gif
+Hi! This is Anurag Gade..gif
 <!--
 **Anurag-Gade/Anurag-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
