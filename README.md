@@ -1,4 +1,5 @@
 <img align="right" alt="GIF" src="Banner1.gif" width="1491" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 <!--
 **Anurag-Gade/Anurag-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
