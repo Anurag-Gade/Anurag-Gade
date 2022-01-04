@@ -1,5 +1,5 @@
-### 
-![](https://github.com/Anurag-Gade/Anurag-Gade/blob/main/Hi!%20This%20is%20Anurag%20Gade..gif)
+<img align="right" alt="GIF" src="Banner1.gif" width="1491" />
+
 <!--
 **Anurag-Gade/Anurag-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
