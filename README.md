@@ -1,4 +1,4 @@
-<img align="right" alt="GIF" src="Banner1.gif" width="1491" />
+<img align="right" alt="GIF" src="Banner1.gif" width="1300" />
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Deep+Learning+and+Robotics+Enthusiast)](https://git.io/typing-svg)
 
