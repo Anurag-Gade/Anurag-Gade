@@ -1,5 +1,5 @@
 ### 
-[![ProfileHeader]Hi! This is Anurag Gade..gif
+![]Hi! This is Anurag Gade..gif
 <!--
 **Anurag-Gade/Anurag-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
