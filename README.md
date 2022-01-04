@@ -1,6 +1,10 @@
 <img align="right" src="Banner1.png" width="1000" />
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Deep+Learning+and+Robotics+Enthusiast)](https://git.io/typing-svg)
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Deep Learning and Robotics Enthusiast&center=true&size=30">
+  </a>
+</h1>
 
 <!--
 **Anurag-Gade/Anurag-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
