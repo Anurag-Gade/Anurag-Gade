@@ -20,6 +20,17 @@
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> <a>
 </p>
 <br>
+  
+ <h3 align="left">Libraries and Frameworks</h3>
+<a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
+<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
+<a href="https://matplotlib.org/stable/index.html" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/> </a>
+<a href="https://scikit-learn.org/stable/index.html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
+<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> 
+<a href="http://wiki.ros.org/ROS/Tutorials" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40"/> <a>
+<a href="https://opencv.org/" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="opencv" width="40" height="40"/> <a>
+ </p>
+ <br>
 <!--
 **Anurag-Gade/Anurag-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
