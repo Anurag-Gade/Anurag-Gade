@@ -4,7 +4,12 @@
     <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Deep+Learning+Enthusiast;Robotics+Enthusiast&center=true&size=30">
   </a>
 </h1>
-
+<p align="center">
+<a href="https://github.com/Anurag-Gade" target="_blank"><img height="30" src="https://github.com/Anurag-Gade/Anurag-Gade/blob/main/iconmonstr-github-1.svg"></a>&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/anurag-gade-948071205/" target="_blank"><img height="30" src="https://github.com/Anurag-Gade/Anurag-Gade/blob/main/logos/iconmonstr-linkedin-3.svg"></a>&nbsp;&nbsp;
+<a href = "mailto: emailanurag1@gmail.com" target="_blank"><img height="30" src="https://github.com/Anurag-Gade/Anurag-Gade/blob/main/logos/Gmail_icon_(2020).svg.png"></a>&nbsp;&nbsp;
+</p>
+<br>
 <!--
 **Anurag-Gade/Anurag-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
