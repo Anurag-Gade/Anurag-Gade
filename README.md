@@ -9,7 +9,6 @@
 <a href="https://www.linkedin.com/in/anurag-gade-948071205/" target="_blank"><img height="30" src="https://github.com/Anurag-Gade/Anurag-Gade/blob/main/logos/iconmonstr-linkedin-3.svg"></a>&nbsp;&nbsp;
 <a href = "mailto: emailanurag1@gmail.com" target="_blank"><img height="30" src="https://github.com/Anurag-Gade/Anurag-Gade/blob/main/logos/Gmail_icon_(2020).svg.png"></a>&nbsp;&nbsp;
 </p>
-<br>
 <h3 align="left">Programming</h3>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -18,7 +17,6 @@
 <a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> <a>
 </p>
-<br>
 <h3 align="left">Libraries and Frameworks</h3>
 <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
@@ -28,12 +26,10 @@
 <a href="http://wiki.ros.org/ROS/Tutorials" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40"/> <a>
 <a href="https://opencv.org/" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="opencv" width="40" height="40"/> <a>
 </p>
-<br>
 <h3 align="left">Design</h3>
 <a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png" alt="autocad" width="40" height="40"/> </a> 
 <a href="https://www.onshape.com/en/" target="_blank"> <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" alt="onshape" width="40" height="40"/> </a>
 </p>
-<br>
 <h3 align="left">Electronics</h3>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
