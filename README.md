@@ -10,6 +10,15 @@
 <a href = "mailto: emailanurag1@gmail.com" target="_blank"><img height="30" src="https://github.com/Anurag-Gade/Anurag-Gade/blob/main/logos/Gmail_icon_(2020).svg.png"></a>&nbsp;&nbsp;
 </p>
 <br>
+
+<h3 align="left">Programming:</h3>
+<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
+<a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
+<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+<a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
+<a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
+</p>
+<br>
 <!--
 **Anurag-Gade/Anurag-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
