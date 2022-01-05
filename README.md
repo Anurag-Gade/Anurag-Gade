@@ -34,7 +34,11 @@
 <a href="https://www.onshape.com/en/" target="_blank"> <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" alt="onshape" width="40" height="40"/> </a>
 </p>
 <br>
- 
+<h3 align="left">Design</h3>
+<a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a> 
+</p>
+<br>
+  
   
 <!--
 **Anurag-Gade/Anurag-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
