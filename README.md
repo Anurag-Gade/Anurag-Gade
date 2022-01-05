@@ -30,11 +30,11 @@
 </p>
 <br>
 <h3 align="left">Design</h3>
-<a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank"> <img src="https://logos-world.net/wp-content/uploads/2020/12/Autocad-Logo.png" alt="autocad" width="40" height="40"/> </a> 
+<a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png" alt="autocad" width="40" height="40"/> </a> 
 <a href="https://www.onshape.com/en/" target="_blank"> <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" alt="onshape" width="40" height="40"/> </a>
 </p>
 <br>
-<h3 align="left">Design</h3>
+<h3 align="left">Electronics</h3>
 <a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a> 
 </p>
 <br>
