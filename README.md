@@ -10,7 +10,6 @@
 <a href = "mailto: emailanurag1@gmail.com" target="_blank"><img height="30" src="https://github.com/Anurag-Gade/Anurag-Gade/blob/main/logos/Gmail_icon_(2020).svg.png"></a>&nbsp;&nbsp;
 </p>
 <br>
-
 <h3 align="left">Programming</h3>
 <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
 <a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
@@ -20,7 +19,6 @@
 <a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> <a>
 </p>
 <br>
-  
  <h3 align="left">Libraries and Frameworks</h3>
 <a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
 <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
