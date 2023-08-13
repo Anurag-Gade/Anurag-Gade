@@ -7,7 +7,7 @@
 <h2 align="center">🖥️ I work on Computer Vision, Image Processing and Representation Learning 🖥️</h2>
 
 - ⚡ I'm currently pursuing my undergraduate thesis at Harvard Medical School in image super-resolution.
-- 🔭 I'm doing a research internship at the Senseable Intelligence Group at MIT on 3D vision. I am also workin at UNSW as an intern on multi-modal learning.
+- 🔭 I'm doing a research internship at the Senseable Intelligence Group at MIT on 3D vision.
 - 🌱 I'm currently learning more on the applications of neural fields, and volumetric tessellations.
 - 📫 How to reach me: anuraggade16@gmail.com
 
