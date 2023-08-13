@@ -1,55 +1,38 @@
-<img align="right" src="Banner1.png" width="1000" />
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?width=450&lines=Deep+Learning+Enthusiast;Robotics+Enthusiast&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=23&duration=1000&center=true&repeat=false&width=437&lines=Hello+there%F0%9F%91%8B%2C+I+am+Anurag+Gade" alt="Typing SVG" />
   </a>
 </h1>
-<p align="center">
-<a href="https://github.com/Anurag-Gade" target="_blank"><img height="30" src="https://github.com/Anurag-Gade/Anurag-Gade/blob/main/iconmonstr-github-1.svg"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/anurag-gade-948071205/" target="_blank"><img height="30" src="https://github.com/Anurag-Gade/Anurag-Gade/blob/main/logos/iconmonstr-linkedin-3.svg"></a>&nbsp;&nbsp;
-<a href = "mailto: emailanurag1@gmail.com" target="_blank"><img height="30" src="https://github.com/Anurag-Gade/Anurag-Gade/blob/main/logos/Gmail_icon_(2020).svg.png"></a>&nbsp;&nbsp;
-</p>
-<h3 align="left">Programming</h3>
-<a href="https://www.cprogramming.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-<a href="https://en.cppreference.com/w/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-<a href="https://www.python.org" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-<a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a>
-<a href="https://jekyllrb.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/jekyllrb/jekyllrb-icon.svg" alt="jekyll" width="40" height="40"/> </a> 
-<a href="https://www.mathworks.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/matlab/matlab-original.svg" alt="matlab" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40" height="40"/> </a>
-</p>
-<h3 align="left">Libraries and Frameworks</h3>
-<a href="https://numpy.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/numpy/numpy-original.svg" alt="numpy" width="40" height="40"/> </a> 
-<a href="https://pandas.pydata.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> 
-<a href="https://matplotlib.org/stable/index.html" target="_blank"> <img src="https://matplotlib.org/stable/_images/sphx_glr_logos2_001.png" alt="matplotlib" width="40" height="40"/> </a>
-<a href="https://scikit-learn.org/stable/index.html/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/> </a>
-<a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a> 
-<a href="http://wiki.ros.org/ROS/Tutorials" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/Ros_logo.svg" alt="ros" width="40" height="40"/> <a>
-<a href="https://opencv.org/" target="_blank"> <img src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text-1.svg" alt="opencv" width="40" height="40"/> <a>
-</p>
-<h3 align="left">Design</h3>
-<a href="https://www.autodesk.com/products/autocad/overview?term=1-YEAR&tab=subscription" target="_blank"> <img src="https://1000logos.net/wp-content/uploads/2021/04/AutoCAD-logo.png" alt="autocad" width="40" height="40"/> </a> 
-<a href="https://www.onshape.com/en/" target="_blank"> <img src="https://us.v-cdn.net/5022071/uploads/V3B85DTZQS8W/box-onshape-favicon-512-401x.png" alt="onshape" width="40" height="40"/> </a>
-</p>
-<h3 align="left">Electronics</h3>
-<a href="https://www.arduino.cc/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" alt="arduino" width="40" height="40"/> </a> 
-</p>
-<br>
-  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Anurag-Gade&show_icons=true&theme=dark&locale=en&layout=compact" alt="Anurag-Gade" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Anurag-Gade&show_icons=true&theme=dark&locale=en" alt="Anurag-Gade" /></p>
-<!--
-**Anurag-Gade/Anurag-Gade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🖥️ I work on Computer Vision, Image Processing and Representation Learning 🖥️</h2>
 
-Here are some ideas to get you started:
+- ⚡ I'm currently pursuing my undergraduate thesis at Harvard Medical School in image super-resolution.
+- 🔭 I'm doing a research internship at the Senseable Intelligence Group at MIT on 3D vision. I am also workin at UNSW as an intern on multi-modal learning.
+- 🌱 I'm currently learning more on the applications of neural fields, and volumetric tessellations.
+- 📫 How to reach me: anuraggade16@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![MATLAB](https://img.shields.io/badge/MATLAB-b077b4.svg?style=for-the-badge&logo=ros&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![ROS](https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Cent OS](https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)  
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anurag-Gade&theme=radical&show_icons=true)
+<img align="right" alt="Coding" width="420" src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif">
