@@ -9,6 +9,7 @@
 - ⚡ I'm currently pursuing my undergraduate thesis at Harvard Medical School on image super-resolution.
 - 🔭 I'm doing a research internship at the Senseable Intelligence Group at MIT on 3D vision.
 - 🌱 I'm currently learning more on the applications of neural fields, and volumetric tessellations.
+- 🔬 My published research is available in my <a href="https://scholar.google.com/citations?user=YBBVKYAAAAAJ&hl=en&oi=ao">Google Scholar</a>
 - 📫 How to reach me: anuraggade16@gmail.com
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
